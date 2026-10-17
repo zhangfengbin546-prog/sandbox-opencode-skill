@@ -1,0 +1,6 @@
+interface:
+  display_name: "企业沙盘战略方案"
+  short_description: "三分钟目标内生成长篇企业沙盘战略、桌面方案表及可点击链接"
+  default_prompt: "使用 $sandbox 分析我提供的企业沙盘比赛规则。逐题弹窗询问角色、打法和首年补单选择，快速生成较长的完整战略方案，把方案表放到我的桌面并在结尾提供超链接。"
+policy:
+  allow_implicit_invocation: true
